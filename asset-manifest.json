@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/validation_form/static/css/main.4719904b.css",
-    "main.js": "/validation_form/static/js/main.9fece820.js",
+    "main.css": "/validation_form/static/css/main.74022a75.css",
+    "main.js": "/validation_form/static/js/main.514d9fa2.js",
     "static/js/787.28cb0dcd.chunk.js": "/validation_form/static/js/787.28cb0dcd.chunk.js",
     "static/media/backgroundthunivu-et00340798-1666182985.png": "/validation_form/static/media/backgroundthunivu-et00340798-1666182985.aa10adafa1a79f52c8e6.png",
     "static/media/1676031933710_northeweb.avif": "/validation_form/static/media/1676031933710_northeweb.447c05290017f856121b.avif",
@@ -34,12 +34,12 @@
     "static/media/rewards_login.avif": "/validation_form/static/media/rewards_login.998e93324ba8be21ce97.avif",
     "static/media/slick.woff": "/validation_form/static/media/slick.295183786cd8a1389865.woff",
     "index.html": "/validation_form/index.html",
-    "main.4719904b.css.map": "/validation_form/static/css/main.4719904b.css.map",
-    "main.9fece820.js.map": "/validation_form/static/js/main.9fece820.js.map",
+    "main.74022a75.css.map": "/validation_form/static/css/main.74022a75.css.map",
+    "main.514d9fa2.js.map": "/validation_form/static/js/main.514d9fa2.js.map",
     "787.28cb0dcd.chunk.js.map": "/validation_form/static/js/787.28cb0dcd.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.4719904b.css",
-    "static/js/main.9fece820.js"
+    "static/css/main.74022a75.css",
+    "static/js/main.514d9fa2.js"
   ]
 }
